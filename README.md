@@ -1,6 +1,7 @@
 # A03
 
 **Branch** -- An iteration of work or a division of code that may or may not have been sent to the main project.
+
 **Clone** -- Copy of the local gitHub repository on a local machine.
 **Commit** -- Dedicating a collection of files to be sent from the local machine to gitHub.
 **Fetch** -- Download files from another repository.
